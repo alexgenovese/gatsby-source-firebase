@@ -6,6 +6,7 @@
   "keywords": [
     "gatsby",
     "gatsby-plugin",
+    "gatsby-source-firebase",
     "firebase"
   ],
   "author": "Alex Genovese",
