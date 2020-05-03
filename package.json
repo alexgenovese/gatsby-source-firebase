@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-source-firebase",
+  "name": "@alexgenovese/gatsby-source-firebase",
   "version": "1.0.0",
   "description": "Gatsby plugin to turn Firebase into a Gatsby data source.",
   "license": "MIT",
@@ -14,10 +14,10 @@
     "gatsby-node.js",
     "README.md"
   ],
-  "repository": "alexgenovese/gatsby-source-firebase",
+  "repository": "git://github.com/alexgenovese/gatsby-source-firebase.git",
   "main": "gatsby-node.js",
   "dependencies": {
     "firebase-admin": "^5.2.1"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "publishConfig": { "registry": "https://npm.pkg.github.com/alexgenovese" }
 }
