@@ -18,5 +18,6 @@
   "main": "gatsby-node.js",
   "dependencies": {
     "firebase-admin": "^5.2.1"
-  }
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
